@@ -1,1 +1,1 @@
-I edited my note as a PDF here
+This project serves as a learning resource for networking enthusiasts and students who wish to understand the principles of subnetting. It simplifies complex topics like classful and classless addressing, CIDR notation, and subnetting with real-world examples.
